@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Wrapper/1.0.0": {
+        "dependencies": {
+          "RPS": "1.0.0"
+        },
+        "runtime": {
+          "Wrapper.dll": {}
+        }
+      },
+      "RPS/1.0.0": {
+        "runtime": {
+          "RPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

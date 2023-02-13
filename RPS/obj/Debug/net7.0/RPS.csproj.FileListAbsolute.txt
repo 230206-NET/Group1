@@ -1,6 +1,4 @@
-C:\Revature\230206-NET\Group1\RPS\bin\Debug\net7.0\RPS.exe
 C:\Revature\230206-NET\Group1\RPS\bin\Debug\net7.0\RPS.deps.json
-C:\Revature\230206-NET\Group1\RPS\bin\Debug\net7.0\RPS.runtimeconfig.json
 C:\Revature\230206-NET\Group1\RPS\bin\Debug\net7.0\RPS.dll
 C:\Revature\230206-NET\Group1\RPS\bin\Debug\net7.0\RPS.pdb
 C:\Revature\230206-NET\Group1\RPS\obj\Debug\net7.0\RPS.csproj.AssemblyReference.cache
@@ -11,5 +9,4 @@ C:\Revature\230206-NET\Group1\RPS\obj\Debug\net7.0\RPS.csproj.CoreCompileInputs.
 C:\Revature\230206-NET\Group1\RPS\obj\Debug\net7.0\RPS.dll
 C:\Revature\230206-NET\Group1\RPS\obj\Debug\net7.0\refint\RPS.dll
 C:\Revature\230206-NET\Group1\RPS\obj\Debug\net7.0\RPS.pdb
-C:\Revature\230206-NET\Group1\RPS\obj\Debug\net7.0\RPS.genruntimeconfig.cache
 C:\Revature\230206-NET\Group1\RPS\obj\Debug\net7.0\ref\RPS.dll

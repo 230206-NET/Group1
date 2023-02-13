@@ -1,7 +1,7 @@
 using System;
 
-namespace RPS
-{
+namespace RPS;
+
     /*
      - Random ran(1,4) -> based on num r, p, s
      -  string array of r,p,s
@@ -24,9 +24,8 @@ namespace RPS
         private static int attempts = 0;
         private static int uScore = 0, cScore = 0;
 
-        public static void Main(string[] args)
+        public static void Start()
         {
-            int status;
             // Console.WriteLine("Please input 1 for Rock, 2 for Paper or 3 for Scissors.");
             while (true)
             {   
@@ -96,4 +95,3 @@ namespace RPS
 
         }
     }
-}
