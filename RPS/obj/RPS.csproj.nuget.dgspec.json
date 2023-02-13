@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Melanie\\Training\\NetProjects\\Group1\\RPS\\RPS.csproj": {}
+    "C:\\Revature\\230206-NET\\Group1\\RPS\\RPS.csproj": {}
   },
   "projects": {
-    "D:\\Melanie\\Training\\NetProjects\\Group1\\RPS\\RPS.csproj": {
+    "C:\\Revature\\230206-NET\\Group1\\RPS\\RPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Melanie\\Training\\NetProjects\\Group1\\RPS\\RPS.csproj",
+        "projectUniqueName": "C:\\Revature\\230206-NET\\Group1\\RPS\\RPS.csproj",
         "projectName": "RPS",
-        "projectPath": "D:\\Melanie\\Training\\NetProjects\\Group1\\RPS\\RPS.csproj",
-        "packagesPath": "C:\\Users\\Melanie\\.nuget\\packages\\",
-        "outputPath": "D:\\Melanie\\Training\\NetProjects\\Group1\\RPS\\obj\\",
+        "projectPath": "C:\\Revature\\230206-NET\\Group1\\RPS\\RPS.csproj",
+        "packagesPath": "C:\\Users\\17473\\.nuget\\packages\\",
+        "outputPath": "C:\\Revature\\230206-NET\\Group1\\RPS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Melanie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\17473\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
